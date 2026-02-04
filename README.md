@@ -2,6 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Full%20Stack%20Roadmap%20AI%20Era&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatneshS16497)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rattuda)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RattuDa98)
+
+[![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
+[![Agentic AI & GenAI](https://img.shields.io/badge/Agentic_AI_&_GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
+[![MCP](https://img.shields.io/badge/MCP-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
+[![COMPUTER Vision AI & GenAI](https://img.shields.io/badge/COMPUTER_VISION_AI_%26_GENAI-ec4899?style=for-the-badge)](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack)
+[![Advance NLP & Generative AI](https://img.shields.io/badge/ADVANCE_NLP_%26_GENERATIVE_AI-92400e?style=for-the-badge)](https://github.com/Ratnesh-181998/advance-nlp-generative-ai)
+[![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-0f766e?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)
+[![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-0052cc?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
+[![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
+
+</div>
+
 # 🚀 Modern Full-Stack Development Roadmap (AI Era)
 
 
