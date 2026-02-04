@@ -12,6 +12,20 @@ The bedrock of your journey. Mastering the core languages and understanding the 
 - **AI Literacy:** ML Basics, LLM Overviews, Prompt Engineering, Ethics.
 - **Environment:** VS Code (AI-enabled), Jupyter, Package Management (`pip`, `npm`).
 
+---
+
+## 🖼️ Visual Roadmaps & References
+
+### 1. 🏗️ 20 Essential Pillars of System Design
+![System Design Pillars](./20_Essential_Pillars_of_System_Design.png)
+
+### 2. 🗺️ Modern Full-Stack Development Roadmap
+![Modern Full-Stack Roadmap](./Modern%20Full-Stack%20Development%20Roadmap%20(AI%20Era).jpeg)
+
+> [📄 View Original Roadmap Source Text](./Modern%20Full-Stack%20Development%20Roadmap%20(AI%20Era).txt)
+
+---
+
 ### 🎨 Phase 2: Modern Frontend (AI-Enabled)
 Building interfaces that breathe with AI.
 - **Stack:** React 18+ / Next.js 14+, Tailwind CSS, shadcn/ui.
