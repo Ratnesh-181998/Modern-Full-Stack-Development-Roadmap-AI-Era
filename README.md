@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Full%20Stack%20Roadmap%20AI%20Era&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</div>
+
 # 🚀 Modern Full-Stack Development Roadmap (AI Era)
+
 
 Welcome to the **Ultimate Roadmap for Modern Full-Stack Development** specifically designed for the **AI Era**. This comprehensive guide covers everything from foundational programming to advanced AI architectures, ensuring you stay ahead in the rapidly evolving tech landscape.
 
