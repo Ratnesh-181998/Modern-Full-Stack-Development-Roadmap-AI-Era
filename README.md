@@ -107,7 +107,7 @@ What’s next?
 | :--- | :--- |
 | **Languages** | Python, TypeScript |
 | **Frontend** | Next.js, Tailwind, shadcn/ui |
-| **Backend** | FastAPI, Node.js |
+| **Backend** | FastAPI,Python,AI/ML, Node.js |
 | **AI Frameworks** | LangChain, LlamaIndex, Vercel AI SDK |
 | **Databases** | Pinecone, PostgreSQL (pgvector), Weaviate |
 | **Cloud** | Vercel, AWS, Google Cloud Vertex |
